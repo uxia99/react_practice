@@ -1,0 +1,7 @@
+main {
+  display: flex; /* Flexbox 레이아웃 사용 */
+  flex-direction: column; /* 자식 요소들을 세로 방향으로 정렬 */
+  align-items: center; /* 가로축(center)을 기준으로 자식 요소들을 가운데 정렬 */
+  justify-content: center; /* 세로축(center)을 기준으로 자식 요소들을 가운데 정렬 */
+  height: 100vh; /* 뷰포트의 전체 높이를 사용 */
+}
